@@ -9,7 +9,7 @@ npm install cypress@14.0.0
 - npx cypress open
 - yarn cypress open
 - pnpm cypress open
- 
+ updated
  
 Instruções adicionais caso haja necessidade:
 1. Desabilitar verificação de certificado no npm
