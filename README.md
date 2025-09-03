@@ -1,13 +1,17 @@
 # MyCypressProject capacitação Minsait
-comands cypress:
+1ª Comands cypress:
+
 npm install --save-dev @types/cypress
 npm install cypress@14.0.0 --save-dev
 npm init -y
- 
+npx cypress install 
 npm install cypress@14.0.0
+- npx cypress open
+- yarn cypress open
+- pnpm cypress open
+ 
  
 Instruções adicionais caso haja necessidade:
-
 1. Desabilitar verificação de certificado no npm
 npm config set strict-ssl false
 npm config set registry "http://registry.npmjs.org/"

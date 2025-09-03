@@ -1,5 +1,5 @@
-const signupLoginPage = new SignupLoginPage();
-const createAccountPage = new CreateAccountPage();
+const LoginPage = new LoginPage();
+const CreateAccountPage = new CreateAccountPage();
 
 describe('Test Case 1: Register User', () => {
   let userDetails;
